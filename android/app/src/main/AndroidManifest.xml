@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.e_ticaret">
+    package="com.example.fake_store_api">
    <application
-        android:label="e_ticaret"
+        android:label="fake_store_api"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
